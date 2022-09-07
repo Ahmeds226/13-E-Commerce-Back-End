@@ -7,6 +7,7 @@ class Category extends Model {}
 // Completed category to match instrcutor repo specs
 Category.init(
   {
+    // define columns
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
