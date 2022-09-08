@@ -48,6 +48,10 @@ npm run start
 
 ```
 
+## Preview
+
+<img src="./assets/images/preview.png" alt="" />
+
 ## Walkthrough Video
 
 <!-- Need to add video link to google drive. -->
