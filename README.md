@@ -44,7 +44,7 @@ npm run seed
 
 npm run start
 
-(Open Postman to check the api calls)
+(Open Postman or Insomnia to check the api calls)
 
 ```
 
