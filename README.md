@@ -54,4 +54,4 @@ npm run start
 
 ## Walkthrough Video
 
-<!-- Need to add video link to google drive. -->
+https://drive.google.com/file/d/1yP2VUGQcDUPf1EatoQYQkepa_dtqgTOb/view?usp=sharing
