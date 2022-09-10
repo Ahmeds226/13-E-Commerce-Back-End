@@ -1,3 +1,4 @@
+// Import:
 const router = require("express").Router();
 const { Tag, Product, ProductTag } = require("../../models");
 
@@ -94,4 +95,5 @@ router.delete("/:id", (req, res) => {
     });
 });
 
+// Export:
 module.exports = router;
